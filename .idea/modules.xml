@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/tutorial-3-cameracontrol.openCVLibrary343.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/tutorial-3-cameracontrol.openCVLibrary343.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVTutorial3CameraControl/tutorial-3-cameracontrol.openCVTutorial3CameraControl.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVTutorial3CameraControl/tutorial-3-cameracontrol.openCVTutorial3CameraControl.iml" />
+    </modules>
+  </component>
+</project>
